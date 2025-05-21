@@ -1,0 +1,9 @@
+CLIENT_ID = "";
+CLIENT_SECRET = "";
+AUTHORIZATION_CODE = "";
+REDIRECT_URI = "";
+OAUTH_URL = "https://oauth.platform.intuit.com";
+SANDBOX_URL = "https://sandbox-quickbooks.api.intuit.com/v3/"
+CONTENT_TYPE_FORM_URL_ENCODED = "application/x-www-form-urlencoded"
+CONTENT_TYPE_TEXT = "application/text"
+COMPANY_ID = "";
